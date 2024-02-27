@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Header section */
+.header-logo{
+    width: 25%;
+    height: 25%;
+}
+
+/* Navbar section */
+#navbar {
+    font-size: larger;
+    font: bold;
+}
+
+/* Footer-copyright section */
+/* Creaet three equal columns that floats next to each other */
+#carouselExampleAutoplaying2 {
+    width: 400px;
+    margin: 10px 100px;
+}
+
+/* News section */
+.news-section>div>img {
+    width: 400px;
+    margin: 10px 100px;
+    padding: 14px 16px;
+}
+
+/* Read more & Read less */
+#more {
+    display: none;
+}
+
+#moreVision {
+    display: none;
+}
+
+
